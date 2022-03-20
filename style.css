@@ -1,0 +1,29 @@
+h1 {
+    color:rgb(126, 75, 209)
+}
+p{
+    color:rgb(233, 85, 59)
+}
+.header{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.intro{
+    background-color: aliceblue;
+    display:flex;
+    justify-content: space-between;
+}
